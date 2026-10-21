@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33771328/README.md)
+[Uploading README (1).md…]()
 <h1 align="center">Hi, I'm Agile4Life 👋</h1>
 
 <p align="center">
@@ -21,16 +21,63 @@
 
 ## 🧰 `~/toolbox`
 
-| Domain | Technologies & Tools |
-|---|---|
-| **Frontend** | JavaScript · TypeScript · React · Next.js · HTML5 · CSS3 · Tailwind CSS |
-| **Backend** | Java · Node.js · Express.js · REST APIs |
-| **Database** | PostgreSQL · Supabase · Microsoft SQL Server |
-| **Testing** | Vitest · Playwright · k6 |
-| **Tools & Deployment** | Git · GitHub · GitHub Actions · Vercel · Docker |
-| **Development Practices** | OOP · API integration · Responsive UI · Pull Requests · AI-assisted development |
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Stack &amp; Tooling</th>
+      <th>Tools &amp; Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌐 Frontend</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS" />
+      </td>
+      <td><code>Responsive UI</code> · <code>Component-Based Architecture</code> · <code>React DevTools</code></td>
+    </tr>
+    <tr>
+      <td>⚙️ Backend</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java,nodejs,express" alt="Java, Node.js, Express" />
+      </td>
+      <td><code>REST APIs</code> · <code>JWT</code> · <code>Role-Based Access Control (RBAC)</code></td>
+    </tr>
+    <tr>
+      <td>🗄️ Database</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" alt="PostgreSQL, Supabase, MySQL" />
+      </td>
+      <td><code>SQL</code> · <code>Relational Data Modeling</code></td>
+    </tr>
+    <tr>
+      <td>🧪 Testing</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=vitest,playwright" alt="Vitest and Playwright" />
+        <img src="https://img.shields.io/badge/k6-Load_Testing-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6 load testing" />
+      </td>
+      <td><code>Unit Testing</code> · <code>End-to-End Testing</code> · <code>Load Testing</code></td>
+    </tr>
+    <tr>
+      <td>🚀 Tools &amp; Deployment</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker" alt="Git, GitHub, GitHub Actions, Vercel, Docker" />
+      </td>
+      <td><code>CI/CD</code> · <code>Pull Requests</code> · <code>Branch Protection</code></td>
+    </tr>
+    <tr>
+      <td>🤖 AI-Assisted Development</td>
+      <td>
+        <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+        <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+      </td>
+      <td><code>AI-Assisted Debugging</code> · <code>Prompt Engineering</code></td>
+    </tr>
+  </tbody>
+</table>
 
-<sub>This list reflects technologies and tools encountered in my projects and learning. It does not imply expert-level proficiency in every item.</sub>
+<sub>Icons are loaded from external badge/icon services. This list reflects technologies and tools encountered in my projects and learning, not expert-level proficiency in every item.</sub>
 
 ## 🚀 Featured Projects
 
