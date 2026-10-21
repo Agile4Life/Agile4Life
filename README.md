@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Agile4Life 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Exploring+Full-Stack+Web+Development)](https://git.io/typing-svg)
 
 <p align="center">
   I build web applications as I learn, with a focus on practical features, clean UI, and improving software through testing and iteration.
@@ -10,11 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student developer building projects to strengthen my software development fundamentals.
-- 🌐 Interested in frontend and full-stack web development.
-- 🧪 Learning to test applications with unit tests, end-to-end tests, and load testing.
-- 🤖 Exploring AI-assisted development tools as part of my workflow.
-- 📌 I aim to grow through hands-on projects, collaboration, code review, and continuous learning.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Exploring+Full-Stack+Web+Development;Student+Developer;Building+Projects+and+Learning+Every+Day)](https://git.io/typing-svg)
 
 ## 🧰 `~/toolbox`
 
