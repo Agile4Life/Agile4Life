@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Agile4Life 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Exploring+Full-Stack+Web+Development)](https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Exploring+Full-Stack+Web+Development)](https://git.io/typing-svg)</p>
 
 <p align="center">
   I build web applications as I learn, with a focus on practical features, clean UI, and improving software through testing and iteration.
