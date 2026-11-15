@@ -25,6 +25,7 @@ jobs:
       - name: Frame snake
         run: |
           grep -q 'viewBox="-16 -32 880 192"' dist/snake.svg || echo "::warning::snk output size changed, frame may not fit"
+          mkdir out && cp dist/snake.svg out/   # dist/ is root-owned (docker action), so write elsewhere
           {
           cat <<'EOF'
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 276" width="920" height="276" role="img" aria-label="Snake eating my GitHub contributions">
@@ -65,11 +66,11 @@ jobs:
           <rect class="fr-glow" x=".5" y=".5" width="919" height="275" rx="14" fill="none" stroke="#36bcf7"/>
           </svg>
           EOF
-          } > dist/snake-framed.svg
+          } > out/snake-framed.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: out
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
