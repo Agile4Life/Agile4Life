@@ -18,7 +18,7 @@
 ## About Me
 
 <p align="center">
-  <img src="./assets/avatar-ascii2.svg" alt="Phong's avatar drawn in animated ASCII" width="420" />
+  <img src="./assets/neofetch.svg" alt="Phong's avatar drawn in animated ASCII next to a terminal-style profile summary" width="100%" />
 </p>
 
 <p align="left">
