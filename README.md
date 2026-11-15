@@ -95,6 +95,7 @@
       <td align="center">
         <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
         <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+        <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Anthropic Claude" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/AI--Assisted%20Debugging-8E75B2?style=flat-square" alt="AI-Assisted Debugging" />
