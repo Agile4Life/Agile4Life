@@ -1,6 +1,6 @@
-<!-- Header: animated wave -->
+<!-- Header: animated wave + ASCII background (assets/header.svg) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36bcf7&height=220&section=header&text=Hi,%20I'm%20Phong%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20in%20progress&descAlignY=58&descSize=18" alt="Hi, I'm Phong" width="100%" />
+  <img src="./assets/header.svg" alt="Hi, I'm Phong 👋 — Full-Stack Web Developer in progress" width="100%" />
 </p>
 
 <p align="center">
