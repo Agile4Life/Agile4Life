@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 386 44" width="386" height="44" role="img" aria-label="toolbox">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" spreadMethod="reflect">
+      <stop offset="0" stop-color="#36bcf7"/><stop offset=".5" stop-color="#e6f4ff"/><stop offset="1" stop-color="#36bcf7"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;2 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .b{fill:#36bcf7;transform-box:fill-box;transform-origin:center bottom;animation:eq 1.1s ease-in-out infinite}
+    @keyframes eq{0%,100%{transform:scaleY(.35)}50%{transform:scaleY(1)}}
+    .t{font:700 28px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:url(#g)}
+    .c{font:500 14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#6b7f95}
+    .cur{fill:#f89820;animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect class="b" x="4" y="8" width="5" height="28" rx="2.5" style="animation-delay:0.00s"/><rect class="b" x="13" y="8" width="5" height="28" rx="2.5" style="animation-delay:-0.28s"/><rect class="b" x="22" y="8" width="5" height="28" rx="2.5" style="animation-delay:-0.56s"/>
+  <text class="t" x="40" y="32" textLength="152" lengthAdjust="spacingAndGlyphs">~/toolbox</text>
+  <rect class="cur" x="196" y="9" width="11" height="26" rx="1.5"/>
+  <text class="c" x="220" y="30"># what I build with</text>
+</svg>
