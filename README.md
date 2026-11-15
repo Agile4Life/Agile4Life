@@ -4,12 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Agile4Life">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=I+build+web+applications+as+I+learn;Practical+features+%E2%80%A2+Clean+UI;Improving+software+through+testing+%26+iteration" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="./assets/hero.svg" alt="I build web applications as I learn, with a focus on practical features, clean UI, and improving software through testing and iteration." width="100%" />
 </p>
 
@@ -21,8 +15,8 @@
   <img src="./assets/neofetch.svg" alt="Phong's avatar drawn in animated ASCII next to a terminal-style profile summary" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=36BCF7&vCenter=true&width=520&lines=Exploring+Full-Stack+Web+Development...;React+%2B+TypeScript+on+the+front;Java+%26+Node.js+on+the+back;Shipping%2C+testing%2C+iterating+%F0%9F%9A%80" alt="Exploring Full-Stack Web Development" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Exploring+Full-Stack+Web+Development...;React+%2B+TypeScript+on+the+front;Java+%26+Node.js+on+the+back;Shipping%2C+testing%2C+iterating+%F0%9F%9A%80" alt="Exploring Full-Stack Web Development" />
 </p>
 
 ## `~/toolbox`
@@ -34,9 +28,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" width="22%">Domain</th>
-      <th align="center" width="40%">Stack &amp; Tooling</th>
-      <th align="left" width="38%">Tools &amp; Concepts</th>
+      <th align="left" width="17%">Domain</th>
+      <th align="center" width="50%">Stack &amp; Tooling</th>
+      <th align="left" width="33%">Tools &amp; Concepts</th>
     </tr>
   </thead>
   <tbody>
@@ -127,6 +121,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Agile4Life&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
 ## Contribution Snake
 
