@@ -18,7 +18,7 @@
 ## About Me
 
 <p align="center">
-  <img src="./assets/avatar-ascii.svg" alt="Phong's avatar drawn in animated ASCII" width="420" />
+  <img src="./assets/avatar-ascii2.svg" alt="Phong's avatar drawn in animated ASCII" width="420" />
 </p>
 
 <p align="left">
