@@ -131,11 +131,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agile4Life/Agile4Life/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agile4Life/Agile4Life/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Agile4Life/Agile4Life/output/github-snake-dark.svg" alt="Snake eating my contributions" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Agile4Life/Agile4Life/output/snake-framed.svg" alt="Snake eating my GitHub contributions" width="100%" />
 </p>
 
 <!-- Footer: animated wave -->
