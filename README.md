@@ -10,15 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Agile4Life&label=Profile%20views&color=36bcf7&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Agile4Life?tab=followers"><img src="https://img.shields.io/github/followers/Agile4Life?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="Followers" /></a>
+  <img src="./assets/hero.svg" alt="I build web applications as I learn, with a focus on practical features, clean UI, and improving software through testing and iteration." width="100%" />
 </p>
 
-<p align="center">
-  I build web applications as I learn, with a focus on practical features, clean UI, and improving software through testing and iteration.
-</p>
-
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🧑‍💻 About Me
 
@@ -28,57 +23,90 @@
 
 ## 🧰 `~/toolbox`
 
-<table>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=36BCF7&vCenter=true&width=460&height=30&lines=%24+ls+~%2Ftoolbox+--all;%24+cat+~%2Ftoolbox%2Fstack.md;%24+npm+run+learn+--watch" alt="$ ls ~/toolbox --all" />
+</p>
+
+<table width="100%">
   <thead>
     <tr>
-      <th align="center">Domain</th>
-      <th align="center">Stack &amp; Tooling</th>
-      <th align="center">Tools &amp; Concepts</th>
+      <th align="left" width="22%">Domain</th>
+      <th align="center" width="40%">Stack &amp; Tooling</th>
+      <th align="left" width="38%">Tools &amp; Concepts</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🌐 Frontend</td>
-      <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind&perline=7" alt="Frontend" /></td>
-      <td><code>Responsive UI</code> · <code>Component-Based Architecture</code> · <code>React DevTools</code></td>
-    </tr>
-    <tr>
-      <td>⚙️ Backend</td>
-      <td><img src="https://skillicons.dev/icons?i=java,nodejs,express" alt="Backend" /></td>
-      <td><code>REST APIs</code> · <code>JWT</code> · <code>Role-Based Access Control (RBAC)</code></td>
-    </tr>
-    <tr>
-      <td>🗄️ Database</td>
-      <td><img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" alt="Database" /></td>
-      <td><code>SQL</code> · <code>Relational Data Modeling</code></td>
-    </tr>
-    <tr>
-      <td>🧪 Testing</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" />
-        <img src="https://img.shields.io/badge/k6-Load%20Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6 Load Testing" />
+      <td>🌐 <b>Frontend</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" alt="TypeScript, JavaScript, React, Next.js, HTML5, CSS3, Tailwind" />
       </td>
-      <td><code>Unit Testing</code> · <code>End-to-End Testing</code> · <code>Load Testing</code></td>
-    </tr>
-    <tr>
-      <td>🚀 Tools &amp; Deployment</td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker" alt="Tools & Deployment" /></td>
-      <td><code>CI/CD</code> · <code>Pull Requests</code> · <code>Branch Protection</code></td>
-    </tr>
-    <tr>
-      <td>🤖 AI-Assisted Development</td>
       <td>
+        <img src="https://img.shields.io/badge/Responsive%20UI-61DAFB?style=flat-square" alt="Responsive UI" />
+        <img src="https://img.shields.io/badge/Component--Based%20Architecture-61DAFB?style=flat-square" alt="Component-Based Architecture" />
+        <img src="https://img.shields.io/badge/React%20DevTools-61DAFB?style=flat-square" alt="React DevTools" />
+      </td>
+    </tr>
+    <tr>
+      <td>⚙️ <b>Backend</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java,nodejs,express" alt="Java, Node.js, Express" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/REST%20APIs-F89820?style=flat-square" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/JWT-F89820?style=flat-square" alt="JWT" />
+        <img src="https://img.shields.io/badge/Role--Based%20Access%20Control%20(RBAC)-F89820?style=flat-square" alt="Role-Based Access Control (RBAC)" />
+      </td>
+    </tr>
+    <tr>
+      <td>🗄️ <b>Database</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" alt="PostgreSQL, Supabase, MySQL" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square" alt="SQL" />
+        <img src="https://img.shields.io/badge/Relational%20Data%20Modeling-4169E1?style=flat-square" alt="Relational Data Modeling" />
+      </td>
+    </tr>
+    <tr>
+      <td>🧪 <b>Testing</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /><br /><img src="https://img.shields.io/badge/k6-Load%20Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6 Load Testing" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Unit%20Testing-7D64FF?style=flat-square" alt="Unit Testing" />
+        <img src="https://img.shields.io/badge/End--to--End%20Testing-7D64FF?style=flat-square" alt="End-to-End Testing" />
+        <img src="https://img.shields.io/badge/Load%20Testing-7D64FF?style=flat-square" alt="Load Testing" />
+      </td>
+    </tr>
+    <tr>
+      <td>🚀 <b>Tools &amp; Deployment</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker" alt="Git, GitHub, GitHub Actions, Vercel, Docker" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square" alt="CI/CD" />
+        <img src="https://img.shields.io/badge/Pull%20Requests-2496ED?style=flat-square" alt="Pull Requests" />
+        <img src="https://img.shields.io/badge/Branch%20Protection-2496ED?style=flat-square" alt="Branch Protection" />
+      </td>
+    </tr>
+    <tr>
+      <td>🤖 <b>AI-Assisted Development</b></td>
+      <td align="center">
         <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
         <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
       </td>
-      <td><code>AI-Assisted Debugging</code> · <code>Prompt Engineering</code></td>
+      <td>
+        <img src="https://img.shields.io/badge/AI--Assisted%20Debugging-8E75B2?style=flat-square" alt="AI-Assisted Debugging" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-8E75B2?style=flat-square" alt="Prompt Engineering" />
+      </td>
     </tr>
   </tbody>
 </table>
 
-<sub>Icons are loaded from external badge/icon services. This list reflects technologies and tools encountered in my projects and learning, not expert-level proficiency in each.</sub>
+<sub>ℹ️ Icons are loaded from external badge/icon services. This list reflects technologies and tools encountered in my projects and learning, not expert-level proficiency in each.</sub>
 
----
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
 ## 📊 GitHub Stats
 

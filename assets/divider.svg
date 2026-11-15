@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 12" width="1000" height="12" role="presentation">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#36bcf7" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#36bcf7"/>
+      <stop offset="1" stop-color="#8e75b2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .run{animation:run 3.5s ease-in-out infinite}
+    @keyframes run{0%{transform:translateX(-200px)}100%{transform:translateX(1000px)}}
+    @media (prefers-reduced-motion:reduce){.run{animation:none;opacity:0}}
+  </style>
+  <rect y="5" width="1000" height="2" rx="1" fill="url(#g)"/>
+  <rect class="run" y="4" width="200" height="4" rx="2" fill="url(#glow)"/>
+</svg>
