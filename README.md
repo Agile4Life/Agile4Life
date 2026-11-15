@@ -15,13 +15,13 @@
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
-## 🧑‍💻 About Me
+## About Me
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=36BCF7&vCenter=true&width=520&lines=Exploring+Full-Stack+Web+Development...;React+%2B+TypeScript+on+the+front;Java+%26+Node.js+on+the+back;Shipping%2C+testing%2C+iterating+%F0%9F%9A%80" alt="Exploring Full-Stack Web Development" />
 </p>
 
-## 🧰 `~/toolbox`
+## `~/toolbox`
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=36BCF7&vCenter=true&width=460&height=30&lines=%24+ls+~%2Ftoolbox+--all;%24+cat+~%2Ftoolbox%2Fstack.md;%24+npm+run+learn+--watch" alt="$ ls ~/toolbox --all" />
@@ -37,7 +37,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>🌐 <b>Frontend</b></td>
+      <td><b>Frontend</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" alt="TypeScript, JavaScript, React, Next.js, HTML5, CSS3, Tailwind" />
       </td>
@@ -48,7 +48,7 @@
       </td>
     </tr>
     <tr>
-      <td>⚙️ <b>Backend</b></td>
+      <td><b>Backend</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=java,nodejs,express" alt="Java, Node.js, Express" />
       </td>
@@ -59,7 +59,7 @@
       </td>
     </tr>
     <tr>
-      <td>🗄️ <b>Database</b></td>
+      <td><b>Database</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" alt="PostgreSQL, Supabase, MySQL" />
       </td>
@@ -69,7 +69,7 @@
       </td>
     </tr>
     <tr>
-      <td>🧪 <b>Testing</b></td>
+      <td><b>Testing</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" /><br /><img src="https://img.shields.io/badge/k6-Load%20Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6 Load Testing" />
       </td>
@@ -80,7 +80,7 @@
       </td>
     </tr>
     <tr>
-      <td>🚀 <b>Tools &amp; Deployment</b></td>
+      <td><b>Tools &amp; Deployment</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker" alt="Git, GitHub, GitHub Actions, Vercel, Docker" />
       </td>
@@ -91,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td>🤖 <b>AI-Assisted Development</b></td>
+      <td><b>AI-Assisted Development</b></td>
       <td align="center">
         <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
         <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
@@ -105,11 +105,11 @@
   </tbody>
 </table>
 
-<sub>ℹ️ Icons are loaded from external badge/icon services. This list reflects technologies and tools encountered in my projects and learning, not expert-level proficiency in each.</sub>
+<sub>Icons are loaded from external badge/icon services. This list reflects technologies and tools encountered in my projects and learning, not expert-level proficiency in each.</sub>
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Agile4Life&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="170" />
@@ -124,7 +124,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agile4Life&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 </p>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
