@@ -1,6 +1,6 @@
-<!-- Header: animated wave + ASCII background (assets/header.svg) -->
+<!-- Header: animated wave + ASCII background (assets/banner.svg) -->
 <p align="center">
-  <img src="./assets/header.svg?v=2" alt="Hi, I'm Phong — Full-Stack Web Developer in progress" width="100%" />
+  <img src="./assets/banner.svg" alt="Hi, I'm Phong — Full-Stack Web Developer in progress" width="100%" />
 </p>
 
 <p align="center">
