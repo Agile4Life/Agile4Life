@@ -17,6 +17,10 @@
 
 ## About Me
 
+<p align="center">
+  <img src="./assets/avatar-ascii.svg" alt="Phong's avatar drawn in animated ASCII" width="420" />
+</p>
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=36BCF7&vCenter=true&width=520&lines=Exploring+Full-Stack+Web+Development...;React+%2B+TypeScript+on+the+front;Java+%26+Node.js+on+the+back;Shipping%2C+testing%2C+iterating+%F0%9F%9A%80" alt="Exploring Full-Stack Web Development" />
 </p>
